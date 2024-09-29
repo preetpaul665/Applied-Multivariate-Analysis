@@ -1,1 +1,1 @@
-# Advanced-Multivariate-Analysis
+# Applied-Multivariate-Analysis
